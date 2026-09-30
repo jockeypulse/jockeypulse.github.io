@@ -13,7 +13,7 @@ profile:
     <p>Dumbass institute of technology</p>
     <p>Earth</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Professional Moron 
+Hi, welcome to my website. The website is solely for the purposes of blogging, as I post academic stuff on another page. 
