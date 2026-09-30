@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a post with images
-date: 2026-09-30 21:01:00
+date: 2026-09-30 21:01:00 +1000
 description: first post
 tags: 
 categories: bs
