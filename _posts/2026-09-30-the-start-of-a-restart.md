@@ -2,49 +2,25 @@
 layout: post
 title: the start of a restart 
 date: 2026-09-30 21:01:00 +1000
-description: first post
+description: I guess this is it
 tags: 
 categories: bs
 thumbnail: 
 ---
 
-This is an example post with image galleries.
+I'm not gonna do any crazy formatting stuff I'm too lazy for that 
+---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
-</div>
+To sum up my previous 2 (or maybe 3) weeks, I would say a lot of things had happened, and frankly speaking I didn't really have a chance to process all of them. Although seemingly not much has happened, these few weeks has been very emotionally draining. I remember talking to my friend last week, saying if I had a time machine, I would definitely travel back to a week ago (that is, 2 weeks ago as of this writing), even at the cost of retaking a test at school (I got full btw). Upon introspection, these 2-3 weeks isn't necessarily _bad_, but it's just something my coping mechanism is unable to process.  
 
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
+Back to the chat last week with my friend, after I expressed my desire to time travel, he said: 'It's seems like you've gone through a lot this week, what happened? ' I replied with something like 'a bunch of unfortunate events which has gone haywire' followed by 'it's time to let it go'. One week is has passed, and I guess I leart one thing now: it's time to deal with these changes, for better or worse.  That's why my autistic ass decided to create the website and compose this -- my first start on my journey to restart. 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+You might have a question here, that is why a website and blogging in particular? To answer the latter, something that I used to do a year ago is composing a diary on a regular basis, and that was a love-hate relationship. It's time consuming, but at the other hand it's both entertainment and fulfilling a responsibility for myself (a kind of coping mechanism, some might say). However starting from second semester of my pre-uni and now (year 1 sem 1), I rarely compose journals anymore. Having to experience what I had to experience these few days, I decided I wanted to be better. The first part is related to my 'doomscroll' on discord. I was looking at others' profiles, and found out a lot of them have interesting websites. I think to myself: Hey! you also have a website, but it's all academic related. Why not make one that is exclusively for personal stuff? 
 
-The rest of the images in this post are all zoomable, arranged into different mini-galleries.
+This week has been an interesting experience. Firstly, we were back from the mid-sem break, so I was really locked out. Academically speaking, I'm really not doing _that well_. I still have a lot to catch up on, not to mention the due dates are kind of killing me. For once, I actually want to have a holiday ever since coming to here. It's not like I don't want to learn, but sometimes I just had enough of learning and doing stuff in a way that I dislike or find uninteresting.  
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+I feel like my life is in a state of turmoil. It's not all bad stuff tho -- a lot of stuff is going quite well, truth be told. For example me having really good sleep two days in a row, or having a lovely, enjoyable chat with my classmates yesterday. Conversely, a bunch of seemingly depressing and miserable stuff is also happening to (or least at affecting) me as well, such as the chaos caused by my friend's broken laptop, or even just some unenjoyable interactions. Like sometimes I just ask myself: Why? How does this get so worse?
 
+This brings us back to the dilemma I've introduced earlier. I genuinely felt these 3 weeks has been extremely unproductive, and wanted to fix things I did not handle well, but at the same time I'm unsure whether I'd be able to perform any better, or even whether I can reproduce the good things that had happened to me. At the end of the day, we all know that's not happening, and it's time to stop hallucinating. That's the restart part, a system reset. I genuinely don't know how to proceed, but progress has to be made.
+
+Saw an inspirational post on instragram the other day (I know, shocking right?), as this actually gave me some encouragement. It goes something like this: Car lights only show the upcoming 15 metres or so of upcoming road, yet they can still arrive to their destinations. Life is similar -- We know not where we are going, we might not be even on the fastest route, but eventually we'll get there. 
