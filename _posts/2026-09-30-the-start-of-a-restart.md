@@ -1,11 +1,11 @@
 ---
 layout: post
-title: a post with images
+title: the start of a restart 
 date: 2026-09-30 21:01:00 +1000
 description: first post
 tags: 
 categories: bs
-thumbnail: assets/img/9.jpg
+thumbnail: 
 ---
 
 This is an example post with image galleries.
