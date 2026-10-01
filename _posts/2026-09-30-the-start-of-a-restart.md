@@ -8,12 +8,12 @@ categories: bs
 thumbnail: 
 ---
 
-I'm not gonna do any crazy formatting stuff I'm too lazy for that 
+### I'm not gonna do any crazy formatting stuff I'm too lazy for that 
 ---
 
 To sum up my previous 2 (or maybe 3) weeks, I would say a lot of things had happened, and frankly speaking I didn't really have a chance to process all of them. Although seemingly not much has happened, these few weeks has been very emotionally draining. I remember talking to my friend last week, saying if I had a time machine, I would definitely travel back to a week ago (that is, 2 weeks ago as of this writing), even at the cost of retaking a test at school (I got full btw). Upon introspection, these 2-3 weeks isn't necessarily _bad_, but it's just something my coping mechanism is unable to process.  
 
-Back to the chat last week with my friend, after I expressed my desire to time travel, he said: 'It's seems like you've gone through a lot this week, what happened? ' I replied with something like 'a bunch of unfortunate events which has gone haywire' followed by 'it's time to let it go'. One week is has passed, and I guess I leart one thing now: it's time to deal with these changes, for better or worse.  That's why my autistic ass decided to create the website and compose this -- my first start on my journey to restart. 
+Back to the chat last week with my friend, after I expressed my desire to change what had happened, he said: 'It's seems like you've gone through a lot this week, what happened? ' I replied with something like 'a bunch of unfortunate events which has gone haywire' followed by 'it's time to let it go'. One week is has passed, and I guess I learnt one thing now: it's time to deal with these changes, for better or worse.  That's why my autistic ass decided to create the website and compose this -- my first start on my journey to restart. 
 
 You might have a question here, that is why a website and blogging in particular? To answer the latter, something that I used to do a year ago is composing a diary on a regular basis, and that was a love-hate relationship. It's time consuming, but at the other hand it's both entertainment and fulfilling a responsibility for myself (a kind of coping mechanism, some might say). However starting from second semester of my pre-uni and now (year 1 sem 1), I rarely compose journals anymore. Having to experience what I had to experience these few days, I decided I wanted to be better. The first part is related to my 'doomscroll' on discord. I was looking at others' profiles, and found out a lot of them have interesting websites. I think to myself: Hey! you also have a website, but it's all academic related. Why not make one that is exclusively for personal stuff? 
 
